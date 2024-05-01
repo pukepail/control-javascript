@@ -4,7 +4,7 @@
   "name": "Control JavaScript",
   "version": "1.0.0",
   "description": "Adds the ability to disable JavaScript on specific sites.",
-  "homepage_url": "https://github.com/dpacassi/disable-javascript",
+  "homepage_url": "https://github.com/pukepail/control-javascript",
   "default_locale": "en",
   "icons": {
     "40": "icons/40/app.png",
