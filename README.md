@@ -1,4 +1,9 @@
-# Disable JavaScript has been discontinued!
+# my attempt at a forking this as Disable JavaScript has been discontinued!
+
+my attempt at learning, might fail
+
+# Comments below are from the forked project disable-javascript
+
 As you might have noticed (no updates for a long time), unfortunately I didn't have sufficient time to further
 develop this web extension.
 While the development of this web extension was exciting, there were very little donations and also some questionable
