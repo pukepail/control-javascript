@@ -2,7 +2,7 @@
   "author": "Joe Pukepail",
   "manifest_version": 2,
   "name": "Control JavaScript",
-  "version": "1.o",
+  "version": "1.0.0",
   "description": "Adds the ability to disable JavaScript on specific sites.",
   "homepage_url": "https://github.com/pukepail/control-javascript",
   "default_locale": "en",
