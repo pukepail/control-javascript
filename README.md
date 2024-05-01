@@ -1,6 +1,6 @@
 # my attempt at a forking this as Disable JavaScript has been discontinued!
 
-my attempt at learning, might fail
+my attempt at learning, might fail, work in progress, use at your own risk
 
 # Comments below are from the forked project disable-javascript
 
@@ -16,7 +16,7 @@ and that versions after **2.3.1** won't reflect the source code of this reposito
 
 Thanks everyone who supported this project by writing genuine reviews, donating or simply creating pull requests.
 
-# Disable JavaScript
+# control JavaScript
 This web extension lets a user decide if JavaScript should be enabled or disabled for a given host or a given tab.  
 
 When accessing e.g. [google.com](https://www.google.com/) and disabling JavaScript, the web extension will block all JavaScript
@@ -66,17 +66,15 @@ Thank you!
 Feature proposals are being added as [issues on GitHub](../../issues).  
 If you want something to be added, create an issue or upvote an existing one.
 
-## Other web extensions
-- [View Page Source (Mobile)](https://github.com/dpacassi/view-page-source-mobile)
-
 ## Maintainer
-- [David Pacassi Torrico](https://pacassi.ch/) _(Web extension implementation, maintenance, support)_
+Joe PukePail  : https://github.com/pukepail/
+
 
 ## License
 ```
 MIT License
 
-Copyright (c) 2017 David Pacassi Torrico
+Copyright (c) 2024 Joe Pukepail
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
