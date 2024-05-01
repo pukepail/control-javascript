@@ -7,7 +7,7 @@
   "main": "gulpfile.js",
   "repository": {
     "type": "git",
-    "url": "git@github.com:dpacassi/disable-javascript.git"
+    "url": "git@github.com:pukepail/control-javascript.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
